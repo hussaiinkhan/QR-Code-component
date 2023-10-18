@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(205, 208, 227);
+    
+}
+
+#box{
+    background-color: white;
+    padding: 2%;
+    width: 260px;
+    height: 470px;
+    border-radius: 5%;
+    text-align: center;
+}
+img{
+
+    border-radius: 20px;
+}
+p{
+    color: rgb(138, 133, 133);
+}
+#b1{
+   margin-top: 10%;
+}
